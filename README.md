@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Reshmi Mavadi Sivadasan. I'm looking to develop new projects in this codespace. 
+
+### Ideas
+- Projects using nordic thingy:53
+
 <!--
 **remjk/remjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
